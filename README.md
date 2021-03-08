@@ -1,1 +1,1 @@
-# common-components
+Egyszerü footer formázás első lépések.
